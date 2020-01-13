@@ -6,4 +6,4 @@ __Jupyter notebook URL:__ https://dataplatform.cloud.ibm.com/analytics/notebooks
 
 __Assignment description:__ Write a Python function that will produce a transformation matrix for reflecting vectors in an arbitrarily angled mirror.  
 
-__Github notebook rendering issue:__ If Gibhub has problem rendering the Jupyter notebook, you are welcome to download the notebook and review it outside of this Github account.
+__Github notebook rendering issue:__ If Gibhub has problem rendering the Jupyter notebook, you are welcome to download the notebook and review it outside of this Github account or check out the ReflectingBear_Preview pdf file.
